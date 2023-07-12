@@ -30,7 +30,7 @@ I am a dedicated software developer and data scientist with a deep interest in M
 
 ## 💼 Work Experience
 
-**Transportation Demand Model Developer** (07/2023 - Present) 
+**Travel Demand Model Developer** (07/2023 - Present) 
 - Implemented automation for the generation of HTML and JavaScript documentation of transportation models, aiding in improved accessibility and understanding of transportation systems
 - Collaborated within a team environment to maintain high code readability and reusability, thereby enhancing our ability to improve public transportation
 
