@@ -7,7 +7,7 @@
 
 ## 📝 About Me
 
-I am a dedicated software developer and data scientist with a deep interest in Machine Learning, Cloud Computing, and Mobile App Development. I am armed with a wide range of skills, including Python, SQL, Git, R, Flutter SDK, Dart, AWS, Agile Development, C#, VB.NET, and others. I'm a proud alumnus of Columbia University, with a Master's degree in Quantitative Methods in Social Sciences, with a concentration in Data Science, and the University of Georgia, where I earned my B.S. in Computer Science.
+I am a dedicated software developer and data scientist with a deep interest in Machine Learning, Cloud Computing, and Mobile App Development. With the tools at my disposal, I strive to contribute to promote a more robust robust public transportation systems. My academic path took me to Columbia University, earning a Master's degree in Quantitative Methods in Social Sciences with a Data Science specialty, and to the University of Georgia, where I achieved a B.S. in Computer Science. Let's code for a better commute! 🚆
 
 ---
 
@@ -31,20 +31,20 @@ I am a dedicated software developer and data scientist with a deep interest in M
 ## 💼 Work Experience
 
 **Transportation Demand Model Developer** (07/2023 - Present) 
-- Implemented automation for the generation of HTML and JavaScript documentation of transportation models
-- Collaborated within a team environment to maintain high code readability and reusability
+- Implemented automation for the generation of HTML and JavaScript documentation of transportation models, aiding in improved accessibility and understanding of transportation systems
+- Collaborated within a team environment to maintain high code readability and reusability, thereby enhancing our ability to improve public transportation
 
 **Software Developer, Fast Enterprises** (01/2016 - 08/2022)
 - Held presentations and design sessions to gather clients’ business practices and turned them into technical specifications to implement, ensuring effective communication with governmental stakeholders
-- Conducted autonomous research, data structure design, and software development
+- Conducted autonomous research, data structure design, and software development, with an emphasis on projects that contribute to public transportation improvements
 
 ---
 
 ## 🧠 Projects
 
-- **Masters Thesis: New York MTA Subway Network as a Metric**: Developed pipelines to aggregate millions of data entries from the US Census and Geospatial shapefile data
-- **Forecast Model of MTA Ridership, KPMG Practicum**: Led a group of 7 core team members and corresponded with 3 stakeholders
-- **GTFS File Pipeline for Network Analysis**: Built an ETL pipeline that scrapes, cleans, and processes New York Subway MTA GTFS files
+- **Masters Thesis: New York MTA Subway Network as a Metric**: Developed pipelines to aggregate millions of data entries from the US Census and Geospatial shapefile data to help improve transportation strategies
+- **Forecast Model of MTA Ridership, KPMG Practicum**: Led a group of 7 core team members and corresponded with 3 stakeholders to build a forecast model, helping MTA to better predict and manage ridership numbers
+- **GTFS File Pipeline for Network Analysis**: Built an ETL pipeline that scrapes, cleans, and processes New York Subway MTA GTFS files, providing actionable insights to improve the efficiency of the network
 - **Rotten Movies Data Actors Data Pipeline**: Built a pipeline that leverages Scrapy and Django libraries
 - **IOUR Blockchain Smart Contract Android App**: Built a web3 blockchain smart contract app powered by the Ethereum Ropsten test network
 - **ReLister API Server for Pantry Inventory**: Created a Flask webapp server that registers client calls
