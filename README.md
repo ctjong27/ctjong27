@@ -16,7 +16,7 @@ I am a dedicated software developer and data scientist with a deep interest in M
 - Programming Languages: Python, SQL, Git, R, Flutter SDK, Dart, AWS, C#, VB.NET
 - Geospatial Analysis & Time Series Forecasts
 - Machine Learning: Decision Trees, Regressions, Classifications, Neural Networks, Time Series Modeling
-- Basic Comprehension: Java, Kotlin, C++, PHP, Javascript, HTML, CSS, MongoDB, Tableau, NLTK & Roberta NLP, Blockchain Contracts
+- Comprehension: Java, Kotlin, C++, PHP, Javascript, HTML, CSS, MongoDB, Tableau, NLTK & Roberta NLP, Blockchain Contracts
 
 ---
 
