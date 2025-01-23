@@ -7,7 +7,7 @@
 
 ## 📝 About Me
 
-I am a dedicated software developer and data scientist with a deep interest in Machine Learning, Cloud Computing, and Mobile App Development. With the tools at my disposal, I strive to contribute to promote a more robust robust public transportation systems. My academic path took me to Columbia University, earning a Master's degree in Quantitative Methods in Social Sciences with a Data Science specialty, and to the University of Georgia, where I achieved a B.S. in Computer Science. Let's code for a better commute! 🚆
+I am a guy, and i like trains. I like technology. I like data & data viz. I like dancing.
 
 ---
 
