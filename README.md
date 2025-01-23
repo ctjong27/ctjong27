@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Chandler Jong!
+# Hi there 👋, I'm tchan jung
 
 [![Website](https://img.shields.io/website?label=musingcj.com&style=for-the-badge&url=https%3A%2F%2Fmusingcj.com)](https://musingcj.com)
 [![GitHub Follow](https://img.shields.io/github/followers/ctjong27?label=Follow&style=social)](https://github.com/ctjong27)
